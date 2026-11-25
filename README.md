@@ -1272,7 +1272,7 @@ A quick map of what changed recently and where to look in this document.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Template-based web scanning.
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner.
 - [Wapiti](https://github.com/wapiti-scanner/wapiti) - Web application scanner.
-- [ZAP](https://www.zaproxy.org/) - OWASP Zed Attack Proxy.
+- [ZAP](https://www.zaproxy.org/) - Zed Attack Proxy.
 - [Burp Suite](https://portswigger.net/burp) - Commercial web testing platform.
 - [Caido](https://caido.io/) - Modern lightweight web security toolkit.
 - [mitmproxy](https://mitmproxy.org/) - Intercepting proxy.
