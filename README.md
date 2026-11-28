@@ -1339,7 +1339,7 @@ A quick map of what changed recently and where to look in this document.
 
 ### API Security
 
-- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
+- [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - [OWASP API Security Top 10](https://owasp.org/API-Security/editions/2023/en/0x00-header/) - Risk baseline.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - Stateful REST API fuzzing.
 - [Astra](https://github.com/flipkart-incubator/Astra) - REST API security testing.
